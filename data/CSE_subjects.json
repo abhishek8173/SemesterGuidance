@@ -1,0 +1,51 @@
+{
+    "1": [{"id": "0", "code":"CHE110", "name":"Environmental Studies", "urls": [{"id":"0", "url":"https://learn-anything.xyz/554"}]},
+    {"id": "1", "code":"MEC107", "name":"Basic Engineering Mechanics", "urls": [{"id":"0", "url":"https://learn-anything.xyz/physics/classical-mechanics/forces"}]},
+    {"id": "2", "code":"CSE101", "name":"Computer Programming", "urls":[{"id":"0", "url":"https://learn-anything.xyz/programming-languages/c"}]},
+    {"id": "3", "code":"ECE131", "name":"Electrical and Electronics Engineering", "urls":[{"id":"0", "url":"https://learn-anything.xyz/engineering/electrical-engineering/electronics"}]},
+    {"id": "4", "code":"MTH165", "name":"Mathematics for Engineers", "urls":[{"id":"0", "url":"https://learn-anything.xyz/mathematics/linear-algebra"}, {"id":"1", "url":"https://learn-anything.xyz/mathematics/calculus/differential-calculus"}, {"id":"2", "url":"https://learn-anything.xyz/mathematics/calculus/integration"}, {"id":"3", "url":"https://learn-anything.xyz/mathematics/calculus/differential-calculus/derivatives"},{"id":"4", "url":"https://learn-anything.xyz/mathematics/calculus/integration/multiple-integrals"}, {"id":"5", "url":"https://learn-anything.xyz/mathematics/analysis/fourier-analysis/fourier-series"}]}
+    ],
+    "2": [{"id": "0", "code":"CSE202", "name":"Object Oriented Programming", "urls": [{"id":"0", "url":"https://learn-anything.xyz/programming-languages/c--"}, {"id":"1", "url":"https://learn-anything.xyz/programming/programming-paradigms/object-oriented"}]},
+    {"id": "1", "code":"CSE326", "name":"Internet Programming Laboratory", "urls": [{"id":"0", "url":"https://learn-anything.xyz/web-development/front-end/html/html5"},{"id":"1", "url":"https://learn-anything.xyz/web-development/front-end/css/css3"},{"id":"2", "url":"https://learn-anything.xyz/programming/programming-languages/javascript"}]},
+    {"id": "2", "code":"ECE216", "name":"Digital Electronics Laboratory", "urls": [{"id":"0", "url":"https://learn-anything.xyz/engineering/electrical-engineering/electronics/digital-logic"}]},
+    {"id": "3", "code":"ECE213", "name":"Digital Electronics", "urls": [{"id":"0", "url":"https://learn-anything.xyz/engineering/electrical-engineering/electronics/digital-logic"}]},
+    {"id": "4", "code":"MEC103", "name":"Engineering Graphics", "urls": []},
+    {"id": "5", "code":"MTH166", "name":"Differential Equations and Vector Calculus", "urls": [{"id":"0", "url":"https://learn-anything.xyz/mathematics/calculus/differential-calculus/derivatives/differential-equations"}, {"id":"1", "url":"https://learn-anything.xyz/mathematics/calculus/vector-calculus"}]},
+    {"id": "6", "code":"PEL121", "name":"Communictation Skills-I", "urls": [{"id":"0", "url":"https://learn-anything.xyz/554"}]},
+    {"id": "7", "code":"PHY109", "name":"Engineering Physics", "urls": [{"id":"0", "url":"https://learn-anything.xyz/physics/electromagnetism"}, {"id":"1", "url":"https://learn-anything.xyz/physics/classical-mechanics/waves"}, {"id":"2", "url":"https://learn-anything.xyz/physics/quantum-mechanics"}, {"id":"3", "url":"https://learn-anything.xyz/physics/condensed-matter-physics/solid-state-physics"}]},
+    {"id": "8", "code":"PHY119", "name":"Engineering Physics Laboratory", "urls": [{"id":"0", "url":"https://learn-anything.xyz/physics/electromagnetism"}, {"id":"1", "url":"https://learn-anything.xyz/physics/classical-mechanics/waves"}, {"id":"2", "url":"https://learn-anything.xyz/physics/quantum-mechanics"}, {"id":"3", "url":"https://learn-anything.xyz/physics/condensed-matter-physics/solid-state-physics"}]}
+    ],
+    "3": [{"id": "0", "code":"CSE205", "name":"Data Stuctures and Algorithms", "urls": [{"id":"0", "url":"https://learn-anything.xyz/computer-science/data-structures"}, {"id":"1", "url":"https://learn-anything.xyz/computer-science/algorithms"}]},
+    {"id": "1", "code":"CSE211", "name":"Computer Organization and Design", "urls": [{"id":"0", "url":"https://www.javatpoint.com/computer-organization-and-architecture-tutorial"}]},
+    {"id": "2", "code":"CSE320", "name":"Software Engineering", "urls": [{"id":"0", "url":"https://www.javatpoint.com/software-engineering-tutorial"}]},
+    {"id": "3", "code":"INT306", "name":"Database Management Systems", "urls": [{"id":"0", "url":"https://www.javatpoint.com/dbms-tutorial"}]},
+    {"id": "4", "code":"INT213", "name":"Python Programming", "urls": [{"id":"0", "url":"https://www.javatpoint.com/python-tutorial"}]},
+    {"id": "5", "code":"MTH401", "name":"Discrete Mathematics", "urls": [{"id":"0", "url":"https://www.javatpoint.com/discrete-mathematics-tutorial"}]},
+    {"id": "6", "code":"PEL131", "name":"Communictation Skills-II", "urls": [{"id":"0", "url":"https://www.javatpoint.com/verbal-ability"}]}
+    ],
+    "4": [{"id": "0", "code":"INT404", "name":"Artificial Intelligence", "urls": [{"id":"0", "url":"https://learn-anything.xyz/artificial-intelligence"}, {"id":"1", "url":"https://www.javatpoint.com/artificial-intelligence-tutorial"}]},
+    {"id": "1", "code":"CSE306", "name":"Computer Networks", "urls": [{"id":"0", "url":"https://www.javatpoint.com/computer-network-tutorial"}]},
+    {"id": "2", "code":"CSE316", "name":"Operating Systems", "urls": [{"id":"0", "url":"https://www.javatpoint.com/os-tutorial"}]},
+    {"id": "3", "code":"CSE310", "name":"Progarmming in JAVA", "urls": [{"id":"0", "url":"https://www.javatpoint.com/java-tutorial"}]},
+    {"id": "4", "code":"CSE408", "name":"Design and Analysis of Algorithms", "urls": [{"id":"0", "url":"https://www.javatpoint.com/daa-tutorial"}]}
+    ],
+    "5": [{"id": "0", "code":"PEV106", "name":"Verbal Ability-I", "urls": [{"id":"0", "url":"https://www.javatpoint.com/verbal-ability"}]},
+    {"id": "1", "code":"INT246", "name":"Soft Computing Techniques", "urls": [{"id":"0", "url":"https://learn-anything.xyz/machine-learning/neural-networks"}, {"id":"1", "url":"https://learn-anything.xyz/mathematics/logic/many-valued-logic/fuzzy-logic"}, {"id":"2", "url":"https://learn-anything.xyz/computer-science/algorithms/genetic-algorithms"}]},
+    {"id": "2", "code":"CSE322", "name":"Formal Languages and Automata Theory", "urls": [{"id":"0", "url":"https://www.javatpoint.com/automata-tutorial"}]},
+    {"id": "3", "code":"PEA305", "name":"Analytical Skills-I", "urls": [{"id":"0", "url":"https://www.javatpoint.com/reasoning"}]}
+    ],
+    "6": [{"id": "0", "code":"CSE308", "name":"Computing Practicum-IV", "urls": [{"id":"0", "url":"https://www.javatpoint.com/linux-tutorial"}, {"id":"1", "url":"https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/chap-getting-started"}]},
+    {"id": "1", "code":"CSE423", "name":"Virtualization and Cloud Computing", "urls": [{"id":"0", "url":"https://www.javatpoint.com/cloud-computing-tutorial"},{"id":"1", "url":"https://learn-anything.xyz/programming/software-development/devops/cloud-computing"}]},
+    {"id": "2", "code":"CSE427", "name":"Virtualization and Cloud Computing Laboratory", "urls": [{"id":"0", "url":"https://www.javatpoint.com/cloud-computing-tutorial"},{"id":"1", "url":"https://learn-anything.xyz/programming/software-development/devops/cloud-computing"}]},
+    {"id": "3", "code":"GEN331", "name":"Workshop on Design Thinking for Innovation", "urls": []},
+    {"id": "4", "code":"INT247", "name":"Machine Learning Foundation", "urls": [{"id":"0", "url":"https://www.javatpoint.com/machine-learning"}, {"id":"1", "url":"https://learn-anything.xyz/machine-learning"}]},
+    {"id": "5", "code":"INT417", "name":"Machine Learning Algorithms", "urls": [{"id":"0", "url":"https://www.javatpoint.com/machine-learning"}, {"id":"1", "url":"https://learn-anything.xyz/machine-learning"}]},
+    {"id": "6", "code":"PEA306", "name":"Analytical Skills-II", "urls": [{"id":"0", "url":"https://www.javatpoint.com/reasoning"}]},
+    {"id": "7", "code":"PES319", "name":"Soft Skills-II", "urls": [{"id":"0", "url":"https://www.javatpoint.com/verbal-ability"}]}
+    ],
+    "7": [{"id": "0", "code":"INT248", "name":"Advanced Machine Learning", "urls": [{"id":"0", "url":"https://www.javatpoint.com/machine-learning"}, {"id":"1", "url":"https://learn-anything.xyz/machine-learning"}]},
+    {"id": "1", "code":"INT405", "name":"Computing Practicum-III", "urls": [{"id":"0", "url":"https://www.javatpoint.com/ios-development-using-swift"}]},
+    {"id": "2", "code":"INT407", "name":"Information Security and Privacy", "urls": [{"id":"0", "url":"https://learn-anything.xyz/security/information-security"}]},
+    {"id": "3", "code":"GEN332", "name":"Product Development and Testing", "urls": []}
+    ]
+}
